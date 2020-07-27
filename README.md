@@ -6,15 +6,15 @@ The virtual Internship program includes practical task modules in :-
 
 1. Interface with a stock price data feed
 
-   Key learnings: Financial data,Python,Git,Basic programming.
+   Key learnings: Financial data, Python, Git.
 
 2. Use JPMorgan Chase frameworks and tools
 
-   Key learnings : React,Typescript,Web Applications
+   Key learnings : React, Typescript, Web Applications.
 
 3. Display data visually for traders.
 
-   Key learnings : Technical Communication,Financial Analysis,Web applications
+   Key learnings : Technical Communication, Financial Analysis, Web applications.
 
 Through out this virtual internship, I was able to apply Python in a different way to visualize and analyze share price data for potential trading opportunities.
 
