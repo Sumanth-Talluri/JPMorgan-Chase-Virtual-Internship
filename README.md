@@ -22,4 +22,4 @@ Through out this virtual internship, I was able to apply Python in a different w
 
 :star: **View my Certificate [here](https://www.slideshare.net/secret/hB9JM0rKjxwobV)**
 
-:eyes: **View Live Demo [here](https://www.youtube.com/watch?v=2Y-_61URvJE)**
+:arrow_forward: **View Live Demo [here](https://www.youtube.com/watch?v=2Y-_61URvJE)**
