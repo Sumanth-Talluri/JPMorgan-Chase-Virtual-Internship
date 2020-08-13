@@ -23,3 +23,17 @@ Through out this virtual internship, I was able to apply Python in a different w
 :star: &nbsp; **View my Certificate [here](https://www.slideshare.net/secret/hB9JM0rKjxwobV)**
 
 :arrow_forward: &nbsp; **View Live Demo [here](https://www.youtube.com/watch?v=2Y-_61URvJE)**
+
+<br>
+
+### Contribute
+
+Contributions are always welcome! Please create a PR to add Github Profile.
+
+### :pencil: License
+
+This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
+
+### :man_astronaut: Show your support
+
+Give a ⭐️ if this project helped you!
