@@ -28,7 +28,7 @@ Through out this virtual internship, I was able to apply Python in a different w
 
 ### Contribute
 
-Contributions are always welcome! Please create a PR to add Github Profile.
+Contributions are always welcome! Please create a PR to contribute.
 
 ### :pencil: License
 
